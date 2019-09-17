@@ -36,7 +36,7 @@ function jogo(){
  mostraAtor();
 movimentaAtor();
 mostraCarro();
-//movimentaCarro(); 
+movimentaCarro(); 
 verificaColisao();
 mostraPlacar();
   
